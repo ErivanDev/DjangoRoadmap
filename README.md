@@ -1,5 +1,6 @@
 # DjangoRoadmap
 Django Skills Roadmap
+
 https://medium.com/@dennisivy/what-level-of-proficiency-is-required-in-django-to-get-a-job-ff514d04bdc2
 
 # Tópicos
